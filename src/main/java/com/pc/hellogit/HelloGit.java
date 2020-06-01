@@ -12,5 +12,6 @@ public class HelloGit {
         System.out.println("hell pc2");
         System.out.println("update 2");
         System.out.println("update 3");
+        System.out.println("create master");
     }
 }
