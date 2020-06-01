@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("hell pc");
         System.out.println("hell pc1");
         System.out.println("hell pc2");
+        System.out.println("update 2");
     }
 }
